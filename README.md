@@ -1,22 +1,22 @@
-<!-- IMPORTANT: Upload this README.md together with the entire assets/ folder. The images will be broken if only README.md is uploaded. -->
+<!-- Image paths match SVG files stored in the repository root. -->
 <!-- Swapnendu Dey | Animated GitHub Profile README -->
 <div align="center">
 
-<img src="assets/hero.svg?v=1" alt="Swapnendu Dey — animated developer introduction" width="100%" />
+<img src="hero.svg?v=2" alt="Swapnendu Dey — animated developer introduction" width="100%" />
 
 </div>
 
 ## About me
 
-<img src="assets/about-life.svg?v=1" alt="About me, capabilities and rotating interests" width="100%" />
+<img src="about-life.svg?v=2" alt="About me, capabilities and rotating interests" width="100%" />
 
 ## Tech stack
 
-<img src="assets/stack.svg?v=1" alt="Technology stack orbit diagram" width="100%" />
+<img src="stack.svg?v=2" alt="Technology stack orbit diagram" width="100%" />
 
 ## Developer ID
 
-<img src="assets/id-dashboard.svg?v=1" alt="Animated developer identity card" width="100%" />
+<img src="id-dashboard.svg?v=2" alt="Animated developer identity card" width="100%" />
 
 ## Projects
 
@@ -28,7 +28,7 @@
 
 ## Connect with me
 
-<img src="assets/connect.svg?v=1" alt="Character pointing toward social profile cards" width="100%" />
+<img src="connect.svg?v=2" alt="Character pointing toward social profile cards" width="100%" />
 
 - **Instagram:** [@swapnendudey615](https://www.instagram.com/swapnendudey615?srtk=MWJqdmg3YTA1eTB4aw==)
 - **LinkedIn:** [Swapnendu Dey](https://www.linkedin.com/in/swapnendu-dey-299309322?utm_source=share_via&utm_content=profile&utm_medium=member_android)
